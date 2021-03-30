@@ -5,9 +5,9 @@ NumberWizardConsole is a Game developed to play in the Unity console.
 
 The game asks the user to pick a number and then tries to guess it based on the user input.
 
-If the number is Higher than current guess the user has to press the " Up Arrow Key ".
+If the number is Higher then the current guess the user has to press the " Up Arrow Key ".
 
-If the number is Lower than current guess the user has to press the " Down Arrow Key ".
+If the number is Lower then the current guess the user has to press the " Down Arrow Key ".
 
 If the number is the current guess then the user has to press the " Return/Enter Key ".
 
