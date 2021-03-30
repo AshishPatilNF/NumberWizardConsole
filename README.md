@@ -1,5 +1,5 @@
 # NumberWizardConsole
-### Learning Game Development Project 1
+## Learning Game Development Project 1
 
 NumberWizardConsole is a Game developed to play in the Unity console.
 
