@@ -13,6 +13,6 @@ If the number is the current guess then the user has to press the " Return/Enter
 
 After the correct guess the Game restarts.
 
-This project was developed for the better understanding of the fundamentals of C# and Basics Unity of Engine. 
+This project was developed for the better understanding of the fundamentals of C# and Basics of Unity Engine. 
 
 This project was developed as a part of the Udemy course "Complete C# Unity Game Developer 2D" under the guidance of Rick Davidson and Ben Tristem.
